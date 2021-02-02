@@ -1,0 +1,11 @@
+title: "とりあえずマイリスト"
+baseurl: "favorite_videos"
+url: ""
+author: ""
+
+theme: minima
+plugins:
+  - jekyll-feed
+header_pages:
+  - index.md
+  - link.md
