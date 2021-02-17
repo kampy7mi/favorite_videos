@@ -9,3 +9,4 @@ plugins:
 header_pages:
   - index.md
   - link.md
+  - list.md
