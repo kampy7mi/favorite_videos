@@ -3,9 +3,12 @@ baseurl: "favorite_videos"
 url: ""
 author: ""
 
+show_excerpts: true
+
 theme: minima
 plugins:
   - jekyll-feed
 header_pages:
   - index.md
   - link.md
+  - recommendation.md
