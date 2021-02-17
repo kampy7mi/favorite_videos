@@ -4,5 +4,6 @@ title: List
 ---
 ## List
 {% for post in site.posts %}
-    {{ post.content }}
+    - [{{ post.title }}]({{ post.url }})
+    {{ post.excerpt }}
 {% endfor %}
