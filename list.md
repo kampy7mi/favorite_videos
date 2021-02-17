@@ -4,5 +4,5 @@ title: List
 ---
 ## List
 {% for post in site.posts %}
-    {{ post.contents }}
+    {{ post.content }}
 {% endfor %}
