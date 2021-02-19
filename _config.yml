@@ -3,7 +3,7 @@ baseurl: "favorite_videos"
 url: ""
 author: ""
 
-show_excerpts: true
+show_excerpts: false
 
 theme: minima
 plugins:
